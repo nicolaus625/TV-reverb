@@ -1,4 +1,4 @@
-# a Time-Variant Reverberation Algorithm for Reverberation Enhancement Syetem
+#a Time-Variant Reverberation Algorithm for Reverberation Enhancement Syetem
 
 The reverberation algorithm is usually an LTI system. The room in the concert hall does not
 change, so the response does not change over time. However, this can lead to colouration and
