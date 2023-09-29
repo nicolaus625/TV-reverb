@@ -1,0 +1,11 @@
+# a Time-Variant Reverberation Algorithm for Reverberation Enhancement Syetem
+
+The reverberation algorithm is usually an LTI system. The room in the concert hall does not
+change, so the response does not change over time. However, this can lead to colouration and
+instability due to feedback caused by the close proximity of the microphones and speakers. Some
+time-varying systems can solve this problem. This paper implements a new time-varying variable
+reverberation algorithm on bela, based on a combination of delay-line, lowpass filter and comb
+filter and feedback, for reverberation enhancement systems. Such systems can often be used in
+electroacoustically enhanced rehearsal rooms. This particular application is briefly outlined, and
+other possible applications are discussed while the shortcomings of the experimental approach are
+analysed.
